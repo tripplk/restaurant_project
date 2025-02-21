@@ -1,5 +1,4 @@
 <template>
-    <h1> Homepage</h1>
     <v-card class="mx-auto" elevation="24">
 
 <v-carousel hide-delimiters>
